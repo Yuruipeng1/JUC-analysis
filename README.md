@@ -7,3 +7,4 @@ JUC源码深度解析
 [3.ConcurrentLinkedQueue解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/ConcurrentLinkedQueue.md)  
 [4.ConcurrentSkipListMap解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/ConcurrentSkipListMap.md)  
 [5.CopyOnWriteArrayList解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/CopyOnWriteArrayList.md)  
+[6.LinkedTransferQueue解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/LinkedTransferQueue.md)  
