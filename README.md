@@ -15,3 +15,4 @@ JUC源码深度解析
 [8.ThreadPoolExecutor解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/ThreadPoolExecutor.md)  
 [9.Thread是如何创建线程和回调run方法(从jvm源码分析)](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/Thread.md)  
 [10.FutureTask解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/FutureTask.md)  
+[11.AbstractQueuedSynchronizer解析](https://github.com/Yuruipeng1/JUC-analysis/blob/master/file/AbstractQueuedSynchronizer.md)  
